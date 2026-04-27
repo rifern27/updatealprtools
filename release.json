@@ -1,6 +1,6 @@
 {
   "version": "1.0.1.1",
-  "url": "https://github.com/rifern27/alpr/releases/download/v1.0.1.1/ALPR.Tools.exe",
-  "sha256": "sha256:9733ffbe69a9991c9758d5864937f1daef782c94c7bae74c7ba38d198f00934b",
-  "notes": "Penambahan menu update"
+  "url": "https://github.com/rifern27/alpr/releases/download/v1.0.1.2/ALPR.Tools.exe",
+  "sha256": "sha256:47c96c538ffcdd31e06b5b7e28dacf76909833f0d7f31283f1d9169c1fcdce8c",
+  "notes": "New UI, more light weight memory used & improvement cache data"
 }
