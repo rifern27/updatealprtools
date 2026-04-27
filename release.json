@@ -1,6 +1,6 @@
 {
   "version": "1.0.1.2",
-  "url": "https://github.com/rifern27/alpr/releases/download/v1.0.1.2/ALPR.Tools.exe",
-  "sha256": "sha256:47c96c538ffcdd31e06b5b7e28dacf76909833f0d7f31283f1d9169c1fcdce8c",
+  "url": "https://github.com/rifern27/alpr/releases/download/v1.0.1.2/ALPR Tools.exe",
+  "sha256": "sha256:a6e9954fbca3ded9162174634f166432dd5f095cfb1aec1f4b64cf8ebb7584f0",
   "notes": "New UI, more light weight memory used & improvement cache data"
 }
